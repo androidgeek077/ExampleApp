@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639883460713",
+    "firebase_url": "https://helping-eye.firebaseio.com",
+    "project_id": "helping-eye",
+    "storage_bucket": "helping-eye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639883460713:android:7e1eb6dd7704b606",
+        "android_client_info": {
+          "package_name": "com.fyp.helpingeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639883460713-ckili5dkarrcpggohf48jigdklqf29rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcALa2CtIwehtM4oInCmOBD72xlDvSGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639883460713-ckili5dkarrcpggohf48jigdklqf29rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
